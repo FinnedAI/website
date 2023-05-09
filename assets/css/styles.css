@@ -1065,6 +1065,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   text-align: center;
 }
 
+.font-mono {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
 .text-6xl {
   font-size: 3.75rem;
   line-height: 1;
